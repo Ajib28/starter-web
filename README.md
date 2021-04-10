@@ -12,8 +12,10 @@ A stated above, the main purpose is to provide simple examples for Gir training 
 
 ## DEPLOYMENT
 
+This is a simple web project, deployment can be on any web server or even local file system.
+
 ## How to Contribute
 
-This is a simple web project, deployment can be on any web server or even local file system.
+Please fork this repositoty and then issue Pull Requests for review.
 
 2021 Git.Training.
